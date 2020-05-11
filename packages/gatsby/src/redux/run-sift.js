@@ -19,13 +19,7 @@ const {
   getNode: siftGetNode,
 } = require(`./nodes`)
 
-const FAST_OPS = [
-  `$eq`,
-  // "$lt",
-  `$lte`,
-  // "$gt",
-  `$gte`,
-]
+const FAST_OPS = [`$eq`, `$lt`, `$lte`, `$gt`, `$gte`]
 
 /**
  * Creates a key for one filterCache inside FiltersCache
