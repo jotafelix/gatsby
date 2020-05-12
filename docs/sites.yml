@@ -10589,3 +10589,19 @@
   built_by: Raz Lifshitz
   built_by_url: https://www.linkedin.com/in/raz-lifshitz
   featured: false
+- title: Felix Digital
+  main_url: https://www.felixdigital.es
+  url: https://www.felixdigital.es
+  description: >
+    This is my portfolio site as a freelance. I work with startups, ecommerce and local business helping them to build their online presence by designing and developing websites.
+    I'm based in Sevilla (Spain) and want to help companies in my area to start using JAMStack and Gatsby JS for their websites.
+  categories:
+    - Freelance
+    - Portfolio
+    - Web Development
+    - Styling:SCSS
+    - CMS:Contentful
+    - Netlify
+  built_by: Felix Gonzalo
+  built_by_url: https://www.felixdigital.es
+  featured: false
